@@ -2,6 +2,4 @@
 this is second journey
 <br>
 
-Author-Mr.Ritesh S.Dumne
-
-  
+Author-Mr.Aditya Jaiswal (coder)
