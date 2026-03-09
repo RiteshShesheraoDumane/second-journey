@@ -1,5 +1,5 @@
 # second-journey
-this is second journey
+this is third journey
 <br>
 
-Author-Mr.Aditya Jaiswal (coder)
+Author-Mr.shyam khandejod
